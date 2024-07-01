@@ -1,6 +1,7 @@
 import "./styles/globals.css";
 
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react";
 import { Inter } from "next/font/google";
 import { Bricolage_Grotesque } from "next/font/google";
 import { Space_Mono } from "next/font/google";
@@ -36,7 +37,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Mike Matovu",
-      url: "vercel.com",
+      url: "https://matovumike.vercel.app",
     },
   ],
   creator: "Mike Matovu",
