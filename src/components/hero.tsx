@@ -27,12 +27,12 @@ const Hero = () => {
       </div>
 
       <h1 className="text-4xl font-bold mb-4" data-aos="zoom-out-down">
-        <p>Hello, I'm Mike</p>
+        <p>Hello, I&apos;m Mike</p>
       </h1>
       <p className="text-lg mb-8" data-aos="slide-right">
         <p>
-          I'm a Software Engineer specialized in building exceptional digital
-          experiences.
+          I&apos;m a Software Engineer specialized in building exceptional
+          digital experiences.
         </p>
       </p>
       <div
