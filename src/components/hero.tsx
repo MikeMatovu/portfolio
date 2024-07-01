@@ -27,11 +27,13 @@ const Hero = () => {
       </div>
 
       <h1 className="text-4xl font-bold mb-4" data-aos="zoom-out-down">
-        Hello, I'm Mike
+        <p>Hello, I'm Mike</p>
       </h1>
       <p className="text-lg mb-8" data-aos="slide-right">
-        I'm a Software Engineer specialized in building exceptional digital
-        experiences.
+        <p>
+          I'm a Software Engineer specialized in building exceptional digital
+          experiences.
+        </p>
       </p>
       <div
         className="flex flex-wrap justify-center gap-4"

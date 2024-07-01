@@ -21,11 +21,9 @@ const About = () => {
           className="text-lg leading-relaxed max-w-3xl mx-auto"
           data-aos="zoom-in"
         >
-          I'm a passionate software engineer with a focus on creating innovative
-          solutions to modern challenges. With experience in various
-          technologies, I enjoy turning complex problems into simple, beautiful,
-          and intuitive designs. My goal is to build products that not only
-          function flawlessly but also provide a great user experience.
+          {
+            "I'm a passionate software engineer with a focus on creating innovative solutions to modern challenges. With experience in various technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to build products that not only function flawlessly but also provide a great user experience."
+          }
         </p>
       </div>
     </section>
