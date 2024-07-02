@@ -30,10 +30,8 @@ const Hero = () => {
         <p>Hello, I&apos;m Mike</p>
       </h1>
       <p className="text-lg mb-8" data-aos="slide-right">
-        <p>
-          I&apos;m a Software Engineer specialized in building exceptional
-          digital experiences.
-        </p>
+        I&apos;m a Software Engineer specialized in building exceptional digital
+        experiences.
       </p>
       <div
         className="flex flex-wrap justify-center gap-4"

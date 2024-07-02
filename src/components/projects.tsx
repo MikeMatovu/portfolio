@@ -10,6 +10,7 @@ import Link from "next/link";
 const Projects = () => {
   return (
     <div
+      id="projects"
       className={`projectCont w-full h-auto relative top-[50px] p-10px flex flex-col items-center justify-center mb-[50px] md:w-[80%] mx-auto`}
     >
       <div className={`w-full flex flex-row items-center justify-center`}>

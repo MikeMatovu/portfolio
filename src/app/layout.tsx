@@ -7,7 +7,7 @@ import { Bricolage_Grotesque } from "next/font/google";
 import { Space_Mono } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { siteConfig } from "@/config/site";
-import Navbar from "../components/nav-bar";
+import { Navbar } from "@/components/component/navbar";
 import Footer from "../components/footer";
 import { Providers } from "./providers";
 
