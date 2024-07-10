@@ -1,30 +1,30 @@
 import {
   faTwitter,
   faInstagram,
-  faWhatsapp,
+  faLinkedin,
   faTelegram,
 } from "@fortawesome/free-brands-svg-icons";
 
 export const socialLinks = [
   {
     name: "Twitter",
-    link: "",
+    link: "https://twitter.com/MikeMatovu_",
     icon: faTwitter,
   },
 
   {
     name: "Instagram",
-    link: "",
+    link: "https://www.instagram.com/mikematovu21/",
     icon: faInstagram,
   },
   {
-    name: "WhatsApp",
-    link: "",
-    icon: faWhatsapp,
+    name: "Linkedin",
+    link: "https://www.linkedin.com/in/matovu-mike-462654222/",
+    icon: faLinkedin,
   },
   {
     name: "Telegram",
-    link: "",
+    link: "https://t.me/mikem43",
     icon: faTelegram,
   },
 ];
