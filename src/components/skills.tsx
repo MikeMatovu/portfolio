@@ -10,11 +10,11 @@ const skills = [
   "React",
   "Next.js",
   "Node.js",
-  "GraphQL",
+  "React Native",
   "Tailwind CSS",
-  "Docker",
-  "Kubernetes",
-  "CI/CD",
+  "Kotlin",
+  "Jetpack compose",
+  "AWS",
 ];
 
 const Skills = () => {

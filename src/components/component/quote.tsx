@@ -1,4 +1,3 @@
-
 export function Quote() {
   return (
     <section data-aos="zoom-in" className="py-12 md:py-16 lg:py-20">
@@ -8,8 +7,8 @@ export function Quote() {
             Favorite Quote
           </h2>
           <blockquote className="mt-8 border-l-4 border-primary pl-6 italic text-xl text-primary-foreground">
-            &ldquo;The only way to do great work is to love what you do. If you
-            haven&apos;t found it yet, keep looking. Don&apos;t settle.&rdquo;
+            &ldquo;The people who are crazy enough to think they can change the
+            world are the ones who do&ldquo;
           </blockquote>
           <p className="mt-4 text-muted-foreground">
             - Steve Jobs, Co-founder of Apple
