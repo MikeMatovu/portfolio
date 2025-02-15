@@ -5,7 +5,7 @@ import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
 const skills = [
-  "JavaScript",
+  "Ruby on Rails",
   "TypeScript",
   "React",
   "Next.js",
@@ -15,6 +15,8 @@ const skills = [
   "Kotlin",
   "Jetpack compose",
   "AWS",
+  "Laravel",
+  "Agile development",
 ];
 
 const Skills = () => {

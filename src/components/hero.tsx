@@ -47,7 +47,7 @@ const Hero = () => {
           </div>
         </Link>
         <a
-          href="/your-cv.pdf" // Replace with your actual CV path
+          href="/matovu_mike_resume.pdf"
           className="bg-teal-500 text-white px-6 py-3 rounded-full shadow-md hover:bg-green-600 transition-colors"
           download
         >
