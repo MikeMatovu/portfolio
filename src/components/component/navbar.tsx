@@ -9,19 +9,23 @@ export function Navbar() {
   const data = [
     {
       title: "About",
-      href: "#about",
+      href: "/#about",
+    },
+    {
+      title: "Blog",
+      href: "/blog",
     },
     {
       title: "Projects",
-      href: "#projects",
+      href: "/#projects",
     },
     {
       title: "Talks",
-      href: "#talks",
+      href: "/#talks",
     },
     {
       title: "Contact",
-      href: "#contact",
+      href: "/#contact",
     },
   ];
 
@@ -77,7 +81,3 @@ export function Navbar() {
     </header>
   );
 }
-
-
-
-

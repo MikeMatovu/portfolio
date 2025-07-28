@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useEffect } from "react";
-import Link from "next/link";
 import Hero from "@/components/hero";
 import About from "@/components/about";
 import Skills from "@/components/skills";
@@ -19,6 +18,7 @@ export default function Home() {
       duration: 1000,
     });
   }, []);
+
   return (
     <>
       <CircleIndicator />
