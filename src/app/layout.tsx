@@ -2,6 +2,7 @@ import "./styles/globals.css";
 
 import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Inter } from "next/font/google";
 import { Bricolage_Grotesque } from "next/font/google";
 import { Space_Mono } from "next/font/google";
@@ -85,6 +86,8 @@ export default function RootLayout({
         <Providers>
           <Navbar />
           {children}
+          <Analytics />
+          <SpeedInsights />
           <Footer />
         </Providers>
       </body>
